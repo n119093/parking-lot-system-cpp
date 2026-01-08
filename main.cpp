@@ -2,7 +2,7 @@
 // Minor formatting update
 // Parking Lot Management System
 // Author: <your name>
-// College Project
+// Colleg
 // Parking Lot Management System
 
 #include <iostream>
