@@ -1,3 +1,7 @@
+// College Project
+// Parking Lot Management System
+// Author: <your name>
+
 #include <iostream>
 #include <vector>
 #include "slot.h"
