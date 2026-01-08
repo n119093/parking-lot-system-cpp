@@ -2,8 +2,6 @@
 // Minor formatting update
 // Parking Lot Management System
 // Author: <your name>
-// Colleg
-// Parking Lot Management System
 
 #include <iostream>
 #include <vector>
