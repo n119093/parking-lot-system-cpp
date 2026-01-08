@@ -1,6 +1,8 @@
 // College Project
 // Parking Lot Management System
 // Author: <your name>
+// College Project
+// Parking Lot Management System
 
 #include <iostream>
 #include <vector>
